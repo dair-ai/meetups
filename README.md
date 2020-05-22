@@ -2,12 +2,20 @@
 
 Find all our past and upcoming meetups [here](https://www.meetup.com/dair-ai/).
 
+---
+
 ### How to write an effective ML or NLP paper summary?
 With the rapid pace of machine learning (ML) and natural language processing (NLP) paper publication, it becomes more important and useful to properly communicate and summarize research trends and progress using different mediums.
 
 In this talk, I will share some tips and tricks on how to write effective paper summaries based on ML and NLP published papers. The focus is on how to write a compact, clear, approachable, responsible, and effective article that your readers will enjoy.
 
+Date: Friday, May 15, 2020
+
 Speaker name: Elvis Saravia
+
 Twitter: https://twitter.com/omarsar0
+
 Slides: https://docs.google.com/presentation/d/1V2cNJjaGH0EeEeO2-WMUFPXeD8iHWtQZE17NeHZ6cfU/edit?usp=sharing
+
+---
 
